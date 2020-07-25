@@ -1,4 +1,5 @@
-
+                                           ******Stack Data Structure******
+                                           
 Introduction:
 
 A stack is a basic data structure that can be logically through of as a linear structure represented by a real physical stack of pile,a structure where insertion and deletion of items takes place at one and called top of the stack.
