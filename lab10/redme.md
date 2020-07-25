@@ -6,9 +6,13 @@ A stack is a basic data structure that can be logically through of as a linear s
 there are many functions declared in a stack linked list. Some of them are giving below:
 
 1.Empty.
+
 2.Size.
+
 3.Top.
+
 4.Push.
+
 5.Pop.
 
 case 1:
